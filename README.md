@@ -47,5 +47,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ascendantaditya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ascendantaditya" /></a></p><br><br>
+[![An image of @codewiithaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewiithaditya)](https://holopin.io/@codewiithaditya)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewiithaditya&show_icons=true&locale=en" alt="codewiithaditya" /></p>
